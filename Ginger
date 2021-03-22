@@ -1,0 +1,28 @@
+!DOCTYPE html>
+<html lang-"es">
+<head>
+    <meta charset="utf-8">
+    <title> INICIO </title>
+  </head>
+  <body>
+    <div>
+      <header>
+        <div>
+          <p>
+            <h1> GATOS EN ADOPCION </h1>
+            Adopta uno de estos bellos gatitos y hazlo feliz
+
+            <h2>Nuestros gatos que buscan familia:</h2>
+        </p>
+        </div>
+        <nav>
+            <ul>
+                <a href="javascript: history.go(-1)"> inicio.>volver.a.gatitos</a>
+            </ul>
+        </nav>
+        </header>
+        </footer>
+        </footer>
+        </div>
+        </body>
+        </html>
